@@ -1,0 +1,17 @@
+subreddit,category
+worldnews,news_discussion
+politics,news_discussion
+news,news_discussion
+PoliticalDiscussion,news_discussion
+memes,meme_image
+funny,meme_image
+dankmemes,meme_image
+pics,meme_image
+relationship_advice,advice_support
+personalfinance,advice_support
+AskDocs,advice_support
+socialskills,advice_support
+programming,technical_professional
+MachineLearning,technical_professional
+cscareerquestions,technical_professional
+askscience,technical_professional

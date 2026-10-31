@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# Spark and Hadoop leftovers
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+_temporary/
+
+# Corpus extract and large data are never committed
+reddit-extract/
+*.parquet
+data/activity.csv
